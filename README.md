@@ -4,3 +4,6 @@ in terminal run it  streamlit run app.py
 new window will open 
 upload the image 
 check the analysis
+
+project video
+https://youtu.be/sJwODuRy3GU
